@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cliff123455
 - 👀 I’m interested in learning to create apps to make my job as a construction manager easier
-- 🌱 I’m currently learning full stack api development
+- 🌱 I’m currently learning full stack development with MERN.
 - 💞️ I’m looking to collaborate on constrcution related apps. Specifically drone mapping and orthomosaic/ video analytics
 - 📫 How to reach me Cliff@automatesolar.com
 
